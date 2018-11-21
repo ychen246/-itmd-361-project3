@@ -246,3 +246,8 @@ section li{
   font-size: 2.75em;
   list-style-image: url('star.png');
 }
+
+#map {
+  width: 100%;
+  height: 400px;
+}
