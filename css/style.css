@@ -250,3 +250,7 @@ section li{
 .sliderContainer {
   position:relative;
 }
+
+.mySlides{
+  display:none;
+}
