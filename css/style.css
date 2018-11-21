@@ -221,11 +221,6 @@ section li{
   border:.2em solid yellow;
 }
 
-.hobbyimg {
-  width:100%;
-  border:.2em solid black;
-}
-
 .smalltext {
   font-size:1em;
   color:grey;
@@ -250,4 +245,8 @@ section li{
 #map {
   width: 100%;
   height: 400px;
+}
+
+.sliderContainer {
+  position:relative;
 }
